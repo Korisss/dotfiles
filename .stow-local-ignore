@@ -1,0 +1,7 @@
+LICENSE
+^\.git
+^\.github
+\.swp$
+\.bak$
+.*\.md
+
