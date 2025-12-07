@@ -17,3 +17,6 @@ stow -D -v -t ~ <folder>
 ```
 
 - <folder> is a folder with configs. For example "makepkg"
+
+Also, you can just use "link.sh" script to install all configs
+
