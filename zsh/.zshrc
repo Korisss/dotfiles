@@ -12,8 +12,10 @@ autoload -Uz compinit
 compinit
 # End of lines added by compinstall
 
-
-source /usr/share/zsh-antigen/antigen.zsh
+# Arch
+source /usr/share/zsh/share/antigen.zsh
+# Debian
+# source /usr/share/zsh-antigen/antigen.zsh
 
 antigen use oh-my-zsh
 
